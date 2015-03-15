@@ -1,0 +1,20 @@
+{
+  "name": "webpack-decorators-loader-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.conf.js",
+  "dependencies": {
+    "babel-core": "^4.7.12",
+    "babel-loader": "^4.2.0",
+    "decorators-loader": "^1.0.0",
+    "webpack": "^1.7.3"
+  },
+  "devDependencies": {
+    "decorators-loader": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
